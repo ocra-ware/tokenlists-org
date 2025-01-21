@@ -135,7 +135,7 @@
     "name": "Zerion Explore",
     "homepage": ""
   },
-  "https://www.ocraware.com/tokenlistPolygon.json": {
+  "https://www.ocraware.com/tokenlist": {
     "name": "Ocraware Polygon full Token List",
     "homepage": "https://www.ocraware.com"
   }
